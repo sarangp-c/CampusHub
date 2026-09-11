@@ -12,10 +12,8 @@ Instead of switching between different notices, spreadsheets, WhatsApp groups, c
 * 📦 Borrow campus equipment without unnecessary hassle
 
 Built as a **zero-backend, portable prototype** for rapid demonstration and real-world campus use cases.
-## 🌐 Live Demo
-
-👉 **[Visit CampusHub Live Website](https://sarangp-c.github.io/CampusHub/)**
----
+Live Demo:
+https://sarangp-c.github.io/CampusHub/
 
 ## 🎯 Why CampusHub?
 
