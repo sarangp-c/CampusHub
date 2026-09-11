@@ -230,23 +230,23 @@ Equipment listings can display the responsible coordinator's contact information
 
 ### 🏠 Student Dashboard
 
-![CampusHub Dashboard]c:\Users\Sarang P\Pictures\Screenshots\Screenshot 2026-09-11 161826.png
+![CampusHub Dashboard]![alt text](dashboard.png)
 
 ### 📊 Attendance Predictor
 
-![Attendance Predictor]c:\Users\Sarang P\Pictures\Screenshots\Screenshot 2026-09-11 161847.png
+![Attendance Predictor]![alt text](attendance-1.png)
 
 ### 📅 Campus Events
 
-![Campus Events]c:\Users\Sarang P\Pictures\Screenshots\Screenshot 2026-09-11 161855.png
+![Campus Events]![alt text](event.png)
 
 ### ⏱️ QueueLess
 
-![QueueLess]c:\Users\Sarang P\Pictures\Screenshots\Screenshot 2026-09-11 161904.png
+![QueueLess]![alt text](queueless.png)
 
 ### 📦 BorrowBox
 
-![BorrowBox]c:\Users\Sarang P\Pictures\Screenshots\Screenshot 2026-09-11 161904 - Copy.png
+![BorrowBox]![alt text](borrowbox.png)
 
 ---
 
