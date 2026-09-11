@@ -226,28 +226,25 @@ Equipment listings can display the responsible coordinator's contact information
 
 # 🖥️ Screenshots
 
-> Add your actual screenshots here before submitting the repository.
-
 ### 🏠 Student Dashboard
 
-![CampusHub Dashboard]![alt text](dashboard.png)
+![CampusHub Dashboard](screenshots/dashboard.png)
 
 ### 📊 Attendance Predictor
 
-![Attendance Predictor]![alt text](attendance-1.png)
+![Attendance Predictor](screenshots/attendance.png)
 
 ### 📅 Campus Events
 
-![Campus Events]![alt text](event.png)
+![Campus Events](screenshots/event.png)
 
 ### ⏱️ QueueLess
 
-![QueueLess]![alt text](queueless.png)
+![QueueLess](screenshots/queueless.png)
 
 ### 📦 BorrowBox
 
-![BorrowBox]![alt text](borrowbox.png)
-
+![BorrowBox](screenshots/borrowbox.png)
 ---
 
 # 🚀 Running the Project
